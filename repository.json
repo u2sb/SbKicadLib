@@ -1,0 +1,16 @@
+{
+  "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+  "maintainer": {
+    "contact": {
+      "web": "https://github.com/u2sb/SbKicadLib"
+    },
+    "name": "U2SB"
+  },
+  "name": "U2SB repository",
+  "packages": {
+    "sha256": "9618ee9967643de85af5e6bdf9702e63bd15115e90527c8676f1e0567fe9ec56",
+    "update_time_utc": "2022-05-05 11:04:08",
+    "update_timestamp": 1651748648,
+    "url": "https://raw.githubusercontent.com/u2sb/SbKicadLib/repository/packages.json"
+  }
+}
