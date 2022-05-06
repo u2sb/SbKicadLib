@@ -1,0 +1,35 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
+  "name": "SbKicadLib",
+  "description": "U2SB Kicad Library",
+  "description_full": "U2SB自用Kicad库",
+  "identifier": "com.github.u2sb.kicad.lib",
+  "type": "library",
+  "author": {
+    "name": "U2SB",
+    "contact": {
+      "web": "https://www.u2sb.com",
+    }
+  },
+  "maintainer": {
+    "name": "MonoLogueChi",
+    "contact": {
+      "web": "https://blog.xxwhite.com"
+    }
+  },
+  "license": "Apache-2.0",
+  "resources": {
+    "homepage": "https://github.com/u2sb/SbKicadLib"
+  },
+  "versions": [
+    {
+      "version": "1.0",
+      "status": "stable",
+      "kicad_version": "5.99",
+      "download_sha256": "YOUR_SHA256_HERE",
+      "download_size": 0,
+      "download_url": "https://github.com/YOUR/DOWNLOAD/URL/kicad-beautiful-theme.zip",
+      "install_size": 0
+    }
+  ]
+}
