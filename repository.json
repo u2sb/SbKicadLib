@@ -8,7 +8,7 @@
   },
   "name": "U2SB repository",
   "packages": {
-    "sha256": "a7965c8b780ea9e1a60b5eb07c7b2da21b4e425416fefee5109af3bcfa45c5d9",
+    "sha256": "60d8244d98c495363fc782069896b280ddaad93a1c31bb59ab94ac1b3c06818f",
     "update_time_utc": "2022-05-05 11:04:08",
     "update_timestamp": 1651748648,
     "url": "https://raw.githubusercontent.com/u2sb/SbKicadLib/repository/packages.json"

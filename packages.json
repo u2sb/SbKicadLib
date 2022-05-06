@@ -27,10 +27,10 @@
         {
           "version": "1.0",
           "status": "stable",
-          "kicad_version": "5.99",
-          "download_sha256": "6e235b4134f504d4a20e87b04744299142a46edc920656c3cb90de568982f3d4",
+          "kicad_version": "6.0",
+          "download_sha256": "efb6e7b5aa966cf4cda21917ef85f6a2948af0fce781cc69c417120e6f947c50",
           "download_size": 8888,
-          "download_url": "https://github.com/u2sb/SbKicadLib/releases/download/1.0/SbKicadLib-1.0.zip",
+          "download_url": "https://github.com/u2sb/SbKicadLib/releases/download/1.0/SbKicadLib.zip",
           "install_size": 8888
         }
       ]
