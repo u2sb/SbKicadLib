@@ -17,12 +17,13 @@
 - SY8286ARAC (DC-DC 转换器)
 - ESP32-S3-WROOM-1
 - OLED_096_IIC
+- MP2359 (DC-DC 转换器)
 - PW2312 (DC-DC 转换器)
 - PW2312A (DC-DC 转换器)
-- PW4202 (升压型2串锂电池充电模块)
-- PW7152 (2节锂电池保护IC)
-- PW8205A8 (N+N MOS管)
-
+- PW4202 (升压型 2 串锂电池充电模块)
+- PW7152 (2 节锂电池保护 IC)
+- PW8205A8 (N+N MOS 管)
+- TPS3510 (ATX 电源管理芯片)
 
 #### 接口
 
@@ -31,9 +32,11 @@
 ### 封装
 
 - DC-IN-TH_DC-044A-A250.kicad_mod (DC5.5\*2.5)
+- DC-044AE-2.5.kicad_mod (DC5.5\*2.5 立式)
 - BT-503450.kicad_mod
 - ESP32-C3-WROOM.kicad_mod
 - ESP32-S2-WROVER-I.kicad_mod
 - ESP32-S3-WROOM-1.kicad_mod
 - OLED_096_IIC.kicad_mod
 - USB-AF-10.0-023.kicad_mod
+- ZXDN10.kicad_mod (DC2DC 模块)
