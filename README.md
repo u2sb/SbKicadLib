@@ -40,3 +40,8 @@
 - OLED_096_IIC.kicad_mod
 - USB-AF-10.0-023.kicad_mod
 - ZXDN10.kicad_mod (DC2DC 模块)
+
+
+### 其他库
+
+- [Espressif KiCad Library](https://github.com/espressif/kicad-libraries)
